@@ -7,7 +7,7 @@
 
 int main(int argc, char **argv)
 {
-
+    int fd;
     return 0;
 }
 
